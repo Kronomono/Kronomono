@@ -33,7 +33,7 @@ I’m interested in:
 ---
 
 ### 🔌 Rexa Modbus TCP/IP Communication Software
-> _Repo: https://github.com/Kronomono/Modbus-Code.git_
+> _Repo: https://github.com/Kronomono/Modbus-Code_
 
 ---
 
