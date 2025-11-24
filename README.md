@@ -15,20 +15,15 @@ I’m interested in:
 ## 🔧 Skills
 
 **Languages**
-
 - C#, Python, JavaScript, C++, Java, SQL, Rust, Prolog
-
-**Tools & Frameworks**
-
-- Unity, Unreal Engine  
-- Tkinter, Discord bots  
-
 **Specialized Knowledge**
 
 - CUDA & GPU computing  
 - TCP/IP networking & Modbus communication  
 - Large Language Models (LLMs) & RAG pipelines  
 - Web scraping & data parsing
+- Unity, Unreal Engine  
+- Tkinter, Discord bots  
 
 ## 🚀 Selected Projects
 
